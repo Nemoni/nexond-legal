@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: legal
+title: CDL Prep Privacy Policy
 permalink: /cdl/privacy
 ---
 
