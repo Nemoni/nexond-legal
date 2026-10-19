@@ -1,0 +1,30 @@
+---
+layout: legal
+title: Support
+permalink: /cdl/support
+---
+
+# CDL Cited Support
+
+CDL Permit Test: Cited Prep (“CDL Cited”) is an unofficial CDL permit study app for iPhone, made by Nexond LLC. It is not affiliated with, endorsed by, or connected to FMCSA, the U.S. Department of Transportation, any state DMV or DPS, or AAMVA.
+
+## Contact us
+
+Email [support@nexond.com](mailto:support@nexond.com). In the app, Settings › Contact us opens a draft with your state, app version, and question bank version filled in.
+
+## Report a problem with a question
+
+Tap the flag (Report a problem) in the top-right corner of the question screen. Your email app opens a draft that already includes the question ID, your state, and the app and question bank versions. Tell us what looks wrong; a page or section from your state manual helps us check it quickly.
+
+## Restore a purchase
+
+Open Settings › Restore purchase, or tap Already purchased? Restore on the welcome screen. Use the same Apple ID you bought with. Unlock forever is a one-time purchase, and the free trial never turns into a subscription. Refunds are handled by Apple at [reportaproblem.apple.com](https://reportaproblem.apple.com/).
+
+## Request your state
+
+If your state is not listed yet, tap Request my state on the state screen, or email us the state name.
+
+## Policies
+
+- [Privacy Policy](/cdl/privacy)
+- [Terms of Use](/cdl/terms)

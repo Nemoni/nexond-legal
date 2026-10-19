@@ -8,13 +8,13 @@ permalink: /cdl/privacy
 
 **Effective date:** October 14, 2026
 
-**Last updated:** October 14, 2026
+**Last updated:** October 18, 2026
 
-Nexond LLC, a Wyoming limited liability company, operates CDL Prep. This policy explains what happens to information when you use the app, contact us, or open its linked pages. Contact us at [support@nexond.com](mailto:support@nexond.com) with privacy questions or requests.
+Nexond LLC, a Wyoming limited liability company, operates CDL Permit Test: Cited Prep (“CDL Cited”). This policy explains what happens to information when you use the app, contact us, or open its linked pages. Contact us at [support@nexond.com](mailto:support@nexond.com) with privacy questions or requests.
 
 ## Information on your iPhone
 
-CDL Prep does not require an account. The app stores your selected state, study goal and tests, answers and practice history, missed questions, practice exam results and unfinished exams, question bank version, and a local record of your free trial or purchase status, including when a trial started, on your iPhone. Nexond does not receive this study data automatically. You can keep using study features offline. Deleting the app removes its local data from that iPhone; Nexond cannot restore it for you. Apple may handle device backups under your Apple settings and Apple's policies.
+CDL Cited does not require an account. The app stores your selected state, study goal and tests, answers and practice history, missed questions, practice exam results and unfinished exams, question bank version, and a local record of your free trial or purchase status, including when a trial started, on your iPhone. Nexond does not receive this study data automatically. You can keep using study features offline. Deleting the app removes its local data from that iPhone; Nexond cannot restore it for you. Apple may handle device backups under your Apple settings and Apple's policies.
 
 ## Purchases and free trial
 
@@ -34,13 +34,13 @@ If you send a message, we receive your sender address, the message, and any info
 
 ## Other disclosures and your choices
 
-CDL Prep has no advertising, analytics, or crash-reporting SDK. We do not sell personal information or share it for cross-context behavioral advertising. We do not use the app to track you across other companies' apps or websites. The app may ask Apple to show a rating prompt; Apple handles any rating or review you choose to submit.
+CDL Cited has no advertising, analytics, or crash-reporting SDK. We do not sell personal information or share it for cross-context behavioral advertising. We do not use the app to track you across other companies' apps or websites. The app may ask Apple to show a rating prompt; Apple handles any rating or review you choose to submit.
 
 We do not use browser Do Not Track signals to change the app's behavior because we do not conduct cross-site tracking. We do not allow third-party trackers in the app to collect information about your activities over time across unrelated apps or websites. Hosting and external sites may apply their own policies to those signals. You can stop update checks by using the app offline, choose not to send an email, or delete the app to remove its local study data. The only personal information you choose to provide directly to Nexond is in an email; hosting providers also process the technical request data described above. There is no in-app consent-based collection to turn off. You can withdraw the choice to email us by not sending a draft or by asking us to delete a message you sent, subject to applicable law. Depending on your state, you may have rights to know, access, correct, or delete personal information held by us and to exercise those rights without discrimination. Email us to make a request; we will respond as applicable law requires. We cannot retrieve or delete study data that remains only on your device.
 
 ## Children
 
-CDL Prep is not directed to children under 13. We do not knowingly collect personal information from them. If we learn that a child under 13 sent us personal information, we will delete it unless the law requires otherwise. A parent or guardian can contact us at the address above.
+CDL Cited is not directed to children under 13. We do not knowingly collect personal information from them. If we learn that a child under 13 sent us personal information, we will delete it unless the law requires otherwise. A parent or guardian can contact us at the address above.
 
 ## Changes
 
